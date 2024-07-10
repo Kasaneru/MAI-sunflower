@@ -1,0 +1,12 @@
+names:
+- sunflower
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: sunflowers-object-detection
+  url: https://universe.roboflow.com/mugabi-siro-mvlzs/sunflowers-object-detection/dataset/8
+  version: 8
+  workspace: mugabi-siro-mvlzs
+test: ../test/images
+train: sunflowers-object-detection-8/train/images
+val: sunflowers-object-detection-8/valid/images
